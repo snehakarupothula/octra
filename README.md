@@ -1,6 +1,6 @@
-# Octra
+# Octra-testnet
 
-# Wallet generation Guide
+# Wallet generation
 
 ---
 
